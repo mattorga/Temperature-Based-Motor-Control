@@ -3,6 +3,8 @@
 
 ## DESCRIPTION - To do
 
+## CAD Schematic - To do
+
 ## COMPONENTS LIST
 | Components     | Quantity   |
 | ------------- |:--:|
@@ -18,5 +20,3 @@
 | LED | 4 |
 | SPST Switch | 4 |
 | 500Ω Resistors | 4 |
-
-
