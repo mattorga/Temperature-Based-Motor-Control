@@ -1,1 +1,1 @@
-# AC Temperature Regulation using PIC16F877A (Simulation)
+# PIC16F877A Motor-dependent AC Temperature Controller
