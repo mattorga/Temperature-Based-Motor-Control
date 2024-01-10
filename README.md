@@ -1,9 +1,9 @@
 # PIC16F877A Motor-dependent AC Temperature Controller
 ![Uploading project.png…]()
 
-## To-do: description
+## DESCRIPTION - To do
 
-## Components List: 
+## COMPONENTS LIST
 | Components     | Quantity   |
 | ------------- |:--:|
 | PIC16F877A | 1 |
